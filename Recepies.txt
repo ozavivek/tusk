@@ -4,4 +4,7 @@ Kheer
 Pasta
 Tomato
 
+Beans
+Pizza
+
 Thank you :)
